@@ -4,7 +4,7 @@ En este ejercicio vamos a trabajar con una base de datos relacional a través de
 
 A continuación tienes las queries necesarias para el ejercicio, tendrás que ejecutarlas en pgAdmin 4 para crear las tablas e introducir los datos en ellas
 
-[Fichero queries SQL](https://github.com/TheBridge-FullStackDeveloper/temario_fullstack_FT_sep23_MAD/blob/master/utils/ejercicioSQL/queries.sql)
+[Fichero queries SQL](./queries.sql)
 
 
 ## Tareas a realizar
