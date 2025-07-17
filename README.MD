@@ -26,6 +26,7 @@ A continuación tienes las queries necesarias para el ejercicio, tendrás que ej
 "category": "sucesos",
 "name": "Alejandru",
 "surname": "Regex",
+"email_author":"alejandru@thebridgeschool.es"
 "image": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
 }
 ```
@@ -37,7 +38,7 @@ En vez de esta respuesta, que es la que está ahora:
 "title": "Noticia: Un panda suelto por la ciudad",
 "content": "El panda se comió todas las frutas de una tienda",
 "date": "2022-03-15T23:00:00.000Z",
-"email_author":"alvaru@thebridgeschool.es"
+"id_author": 1,
 "category": "Sucesos"
 }
 ```
