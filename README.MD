@@ -13,7 +13,8 @@ A continuación tienes las queries necesarias para el ejercicio, tendrás que ej
 
 - Después, completamos la API con las siguientes rutas para entries:
 
-    - [GET] http://localhost:3000/api/entries
+    - [GET] http://localhost:3000/api/entries Retorna todas las entries
+    - [GET] http://localhost:3000/api/entries?email=alejandru@thebridgeschool.es Retorna un objeto con las entries del autor buscado.
 
     #### Modificar la query SQL para que me devuelva una respuesta con los datos del autor y sin ID de la entry:
 
